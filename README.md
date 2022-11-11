@@ -17,5 +17,5 @@ The contents are :
 -> Exercise 2:
   Z-tranform of a discrete time signal.
   Difference equation of an LTI system.
-  Stability and casuality of an LTI system and what we conclude about the region of convergence.
+  Stability and causality of an LTI system and what we conclude about the region of convergence.
   Inverse Z-tranform.
