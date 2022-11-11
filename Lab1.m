@@ -157,7 +157,7 @@ title("Sampling at 12 Hz")  %%fs < 2*12 -- Fail. Aliasing
 xlabel('n')
 ylabel('x[n]')
 
-%The sampled signal is completely different from the one we need to get.%
+%The sampled signal is completely different from the one we need to get.
 
 %Now we will set our own sampling frequency
 
