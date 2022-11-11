@@ -1,1 +1,1 @@
-# DigitalSignalProcessingLab
+# Digital Signal Processing
