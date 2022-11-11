@@ -1,6 +1,6 @@
 # Digital Signal Processing
 
-![Uploading dsp2.jpg…]()
+![image](https://user-images.githubusercontent.com/83914255/201235054-9978a1a3-17f4-42b7-95e9-6d1c5da5eb2b.png)
 
 These are the MatLab scripts of the Digital Signal Processing lab. 
 
