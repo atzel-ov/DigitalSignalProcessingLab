@@ -4,7 +4,7 @@
 
 These are the MatLab scripts of the Digital Signal Processing lab. 
 
-The contents are :
+Contents:
 
 -> Exercise 1:
   Convolution of two discrete time signals.
