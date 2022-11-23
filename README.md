@@ -19,3 +19,9 @@ Contents:
   Difference equation of an LTI system.
   Stability and causality of an LTI system and what we conclude about the region of convergence.
   Inverse Z-tranform.
+  
+-> Exercise 3:
+  IIR filters for discrete time signals.
+  Difference between a CT and a DT signal of the same order and cutoff frequency.
+  Butterworth lowpass filter.
+  Chebyshev highpass filter.
