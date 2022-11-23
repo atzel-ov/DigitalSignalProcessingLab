@@ -25,3 +25,4 @@ Contents:
   Difference between a CT and a DT signal of the same order and cutoff frequency.
   Butterworth lowpass filter.
   Chebyshev highpass filter.
+  Fourier transform of filtered signals.
