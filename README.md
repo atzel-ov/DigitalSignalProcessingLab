@@ -22,7 +22,7 @@ Contents:
   
 -> Exercise 3:
   IIR filters for discrete time signals.
-  Difference between a CT and a DT signal of the same order and cutoff frequency.
+  Difference between a CT and a DT filter of the same order and cutoff frequency.
   Butterworth lowpass filter.
   Chebyshev highpass filter.
   Fourier transform of filtered signals.
