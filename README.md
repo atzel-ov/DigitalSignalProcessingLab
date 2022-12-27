@@ -26,3 +26,9 @@ Contents:
   Butterworth lowpass filter.
   Chebyshev highpass filter.
   Fourier transform of filtered signals.
+
+-> Exercise 4:
+  FIR filters for discrete time signals.
+  Windows and the Gibbs phenomenon.
+  Rectangular, Hamming and Hanning windows.
+  Windows and aliasing.
