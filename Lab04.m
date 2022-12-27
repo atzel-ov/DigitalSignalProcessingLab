@@ -274,24 +274,3 @@ stem(f,X_hanningO40,"red")
 title('Order 40 Hanning on x[n]')
 xlabel('Frequency (Hz)')
 ylabel('Magnitude |X|')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
